@@ -7,10 +7,8 @@ Beto Ayesa for https://www.phpninja.info
 
 ## How to use?
 1- Include jQuery 
-
 2- Include the main js file (jQuery-backgroundCover.js) 
-
-3- Have a DIV or html dom element where you want to apply the background, in this case, a div with id = background 
+3- Have a DIV or html dom element where you want to apply the image background, in this case, a div with id = background 
 
 
 	$('#background').smartBackgroundResize({
