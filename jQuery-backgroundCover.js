@@ -2,13 +2,11 @@
 
 * The MIT License (MIT)
 * Copyright (c) 2012 
-* 96Levels -  Your code Partner
-* www.96levels.com
+* @betoayesa
+* www.phpninja.info
 *
-* Smart Background Resize 
+* jQuery Background Cover - Smart Background Resize 
 * v.1.1 june 2012
-* jQuery Plugin
-* hello@96levels.com
 *
 * Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without 
 * restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the
