@@ -10,10 +10,10 @@ Beto Ayesa for https://www.phpninja.info
 
 2- Include the main js file (jQuery-backgroundCover.js) 
 
-3- Have a DIV or html dom element where you want to apply the image background, in this case, a div with id = background 
+3- Have a *DIV or html dom element* where you want to apply the image background, in this case, a *div with id = background* 
 
 
-	$('#background').smartBackgroundResize({
+	$('*#background*').smartBackgroundResize({
 		image: 'http://www.cinecritic.biz/es/images/stories/up-pixar/up3.jpg' 
 		// relative or absolute path to background image file				
 	});
