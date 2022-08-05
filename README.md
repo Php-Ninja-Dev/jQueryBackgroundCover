@@ -2,7 +2,7 @@
 jQuery plugin to adjust background image. background:cover doesn't maintain the image's center. 
 
 ## Author
-Beto Ayesa for https://www.phpninja.info
+Beto Ayesa for https://www.phpninja.es
 
 
 ## How to use?
